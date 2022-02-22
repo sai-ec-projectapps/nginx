@@ -4,7 +4,7 @@ on:
 
 jobs:
   build:
-    name: Deploy
+    name: Deploy image
     runs-on: ubuntu-latest
 
     steps:
